@@ -1,0 +1,4 @@
+The px,em,rem,and % are the unit in css.
+The only use is to adjust the size of <p>,<div>,<main>, or any adjustable item.]
+the order of this unit is-- { % > px > rem > em }.
+generally we use px or % . 

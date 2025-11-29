@@ -1,0 +1,122 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	color: black;
+
+}
+
+header{
+	display: flex;
+	background-color: white;
+	height: 12vh;
+	width: 100vw;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	gap:800px;
+
+
+}
+
+#s1{
+	
+	width: 60vw;
+	padding-left: 50px;
+	justify-content: space-evenly;
+	display: flex;
+	gap: 30px;
+	/*background-color: lightsalmon;*/
+
+
+
+}
+
+#s2{
+	justify-content: space-evenly;
+	display: flex;
+	
+	padding-right: 30px;
+	width: 30vw;
+
+
+	
+}
+
+button{
+	height: 3vh;
+	gap: 30px;
+	border: 0px;
+	background-color: white;
+	font-size: large;
+	width: 4vw;
+}
+
+
+main{
+	width: 100vw;
+	height: 150vh;
+	background-color: lightgoldenrodyellow;
+}
+
+#div1{
+	display: flex;
+	height: 80vh;
+	width: 100vw;
+	gap: 50px;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	gap: 30;
+
+}
+
+
+#s3{
+	background-color: lightpink;
+	height: 60vh;
+	width: 30vw;
+	border: 50px solid blacks;
+	border-block: black;
+	border-radius: 10px;
+	box-shadow: 0 0 black;
+
+
+}
+
+#s3:hover{
+	background-color: deeppink;
+	transform: rotateY(360deg);
+	transition-duration: 2s;
+
+}
+
+
+/*#div2{
+	width: 100vw;
+	height: 60vh;
+}*/*/
+
+/*#s4{
+	background-color: lightpink;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	height: 40vh;
+	width: 60vw;
+	border: 50px solid blacks;
+	border-block: black;
+	border-radius: 10px;
+	box-shadow: 0 0 black;
+
+	
+}
+
+
+#s4:hover{
+	padding-top: 30px;
+	background-color: deeppink;
+	
+}
+
+

@@ -1,0 +1,41 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+main{
+	height: 100vh;
+	width: 100vw;
+	background-color: black;
+}
+
+
+.div1{
+
+	
+	height: 100vh;
+	padding-top: 50px;
+	padding-left: 30px;
+	width: 100vw;
+	background-color: lightsalmon;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	display: flex;
+	gap: 50px;
+}
+
+
+
+.s1{
+	height: 85vh;
+	
+
+	border:10px ;
+	width: 30vw;
+	background-color:lightcyan;
+	overflow: hidden;
+	 border-radius:10px ;
+}

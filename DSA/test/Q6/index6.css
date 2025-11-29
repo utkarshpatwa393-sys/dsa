@@ -1,0 +1,108 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+main{
+	height: 90vh;
+	background-color: lightblue;
+	width: 40vw;
+	border: solid black;
+	justify-content: center;
+	border: solid black;
+	padding-left: 40px;
+	border: 40px;
+	display: flex;
+	gap: 300px;
+	margin: 100px;
+}
+
+#div1{
+	/*background-color: lightgreen;*/
+	height: 90vh;
+	width: 25vw;
+	gap: 30px;
+	padding-right: 30px;
+
+}
+
+
+#div2{
+	/*background-color: lightgoldenrodyellow;*/
+	height: 90vh;
+	width: 25vw;
+	justify-content: end;
+}
+
+
+.s1{
+	height: 10vh;
+	background-color: yellow;
+	justify-content: center;
+	padding-top: 30px;
+	text-align: center;
+	text-align: center;
+	width: 5vw;
+}
+
+.s3{
+	height: 10vh;
+	background-color: yellow;
+	justify-content: center;
+	padding-top: 30px;
+	text-align: center;
+	text-align: center;
+	width: 5vw;
+}
+
+
+.s5{
+	height: 10vh;
+	background-color: yellow;
+	justify-content: center;
+	padding-top: 30px;
+	text-align: center;
+	text-align: center;
+	width: 5vw;
+}
+
+
+
+
+
+
+
+
+
+.s2{
+	height: 10vh;
+	background-color: yellow;
+	justify-content: center;
+	padding-top: 30px;
+
+	text-align: center;
+	text-align: center;
+	width: 5vw;
+}
+
+.s4{
+	height: 10vh;
+	background-color: yellow;
+	justify-content: center;
+	padding-top: 30px;
+	text-align: center;
+	text-align: center;
+	width: 5vw;
+}
+
+
+.s6{
+	height: 10vh;
+	background-color: yellow;
+	justify-content: center;
+	padding-top: 30px;
+	text-align: center;
+	text-align: center;
+	width: 5vw;
+}

@@ -1,0 +1,4 @@
+text8Ans
+The difference between external, internal and inline css is --- the external css apply on parent .
+the internal css apply on child while using a id(#) and class(.) selector.
+the inline css apply on in between the line like <p>, <h1>, <h2>.
